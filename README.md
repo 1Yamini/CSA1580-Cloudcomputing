@@ -39,6 +39,11 @@ Course registration
 Create Virtualmachine
 ![Screenshot 2023-05-05 084203](https://user-images.githubusercontent.com/113408303/236370428-0cbe3841-3d32-4721-bebc-fb924f61caa7.png)
 
+## Experiment-8
+Adding a new Harddisk
+![Screenshot 2023-05-05 084525](https://user-images.githubusercontent.com/113408303/236370732-fd388404-2cbb-4248-aa17-41780cc4a36d.png)
+
+
 
 
 
