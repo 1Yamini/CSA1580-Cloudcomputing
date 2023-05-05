@@ -52,6 +52,11 @@ Cloning of Ubuntu
 ![Screenshot 2023-05-05 085435](https://user-images.githubusercontent.com/113408303/236371707-5cd16a8d-eb23-4ab2-aa25-0b3b7f2c9e43.png)
 ![Screenshot 2023-05-05 085443](https://user-images.githubusercontent.com/113408303/236371731-eec0c4db-57e6-43c4-807f-a2ec661585e2.png)
 
+## Experiment-11
+Snapshot
+![Screenshot 2023-05-05 090544](https://user-images.githubusercontent.com/113408303/236372760-849fa043-1753-44a7-8009-b423e083c081.png)
+
+
 
 
 
