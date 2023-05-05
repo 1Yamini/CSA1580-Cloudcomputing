@@ -44,7 +44,16 @@ Adding a new Harddisk
 ![Screenshot 2023-05-05 084525](https://user-images.githubusercontent.com/113408303/236370732-fd388404-2cbb-4248-aa17-41780cc4a36d.png)
 
 ## Experiment-9
+Reducing size of harddisk
 ![Screenshot 2023-05-05 084837](https://user-images.githubusercontent.com/113408303/236371024-75328510-dc1d-489d-8406-aba229fcf58a.png)
+
+## Experiment-10
+Cloning of Ubuntu
+![Screenshot 2023-05-05 085435](https://user-images.githubusercontent.com/113408303/236371707-5cd16a8d-eb23-4ab2-aa25-0b3b7f2c9e43.png)
+![Screenshot 2023-05-05 085443](https://user-images.githubusercontent.com/113408303/236371731-eec0c4db-57e6-43c4-807f-a2ec661585e2.png)
+
+
+
 
 
 
