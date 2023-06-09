@@ -66,7 +66,25 @@ Snapshot
 ![Screenshot 2023-05-15 083359](https://github.com/1Yamini/CSA1580-Cloudcomputing/assets/113408303/2cfb7c60-8a9f-4db5-8ea8-b80830518102)
 ![Screenshot 2023-05-15 083411](https://github.com/1Yamini/CSA1580-Cloudcomputing/assets/113408303/be7d1db8-64dc-4ca3-9c4a-e9bb4b53b34e)
 
-## Experiment-13
+## 13 EXPERIMENT
+<img width="960" alt="Screenshot 2023-05-15 084152" src="https://github.com/3bhavanasai/CSA1580_CLOUD_COMPUTING/assets/113408005/6987ae0e-f5f4-4cbb-916f-8af5bd290ea2">
+<img width="959" alt="Screenshot 2023-05-15 084346" src="https://github.com/3bhavanasai/CSA1580_CLOUD_COMPUTING/assets/113408005/b2baca2c-cc22-48f1-86ad-1679d2845396">
+
+## 14 EXPERIMENT
+<img width="960" alt="Screenshot 2023-05-13 092728" src="https://github.com/3bhavanasai/CSA1580_CLOUD_COMPUTING/assets/113408005/5b99745a-179d-4aa9-b82e-395bed46b450">
+
+## 15 EXPERIMENT
+
+## 18 EXPERIMENT
+![image](https://github.com/3bhavanasai/CSA1580_CLOUD_COMPUTING/assets/113408005/4bbdcfd9-0e0e-4a8c-97e6-a9c907b9e542)
+![image](https://github.com/3bhavanasai/CSA1580_CLOUD_COMPUTING/assets/113408005/a3baaa50-dc75-4205-bd88-181505a3606b)
+![image](https://github.com/3bhavanasai/CSA1580_CLOUD_COMPUTING/assets/113408005/967f83ed-a49e-460e-9264-33ff4eebe384)
+<img width="802" alt="image" src="https://github.com/3bhavanasai/CSA1580_CLOUD_COMPUTING/assets/113408005/b25d99d4-84dc-4755-a73f-bf5fb7f80257">
+
+## 20 EXPERIMENT
+<img width="960" alt="Screenshot 2023-05-24 081211" src="https://github.com/3bhavanasai/CSA1580_CLOUD_COMPUTING/assets/113408005/2820c478-1c17-460c-97a5-05b06fbe03b7">
+<img width="959" alt="Screenshot 2023-05-24 081833" src="https://github.com/3bhavanasai/CSA1580_CLOUD_COMPUTING/assets/113408005/774e256b-d912-4545-8ea7-64328e04eaf6">
+<img width="960" alt="Screenshot 2023-05-24 082417" src="https://github.com/3bhavanasai/CSA1580_CLOUD_COMPUTING/assets/113408005/8987dc8e-3491-48c6-8ff6-f80f20ae9b1b">
 
 
 
